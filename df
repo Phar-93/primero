@@ -1,0 +1,96 @@
+[33mcommit 0190f770c03d6263e440afed2a7e4bdec5f55ec1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Tue Oct 8 19:12:51 2019 +0200
+
+    conflicto merge
+
+[33mcommit 8b7fbe51b8dc3ad6aba057bb13402aa2f618a0ea[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Tue Oct 8 18:57:57 2019 +0200
+
+    Segundo commit
+
+[33mcommit 5c932bbac93245e7bfc20038d69e468e26b1d444[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Tue Oct 8 18:56:10 2019 +0200
+
+    Primer commit
+
+[33mcommit fc4cfcd36997c73d4f085758a3b265848652082c[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Mon Oct 7 17:17:48 2019 +0200
+
+    Verson 4
+
+[33mcommit ac49c563313ebf6927f30e4947dc2a7ad2f9367f[m
+Merge: e4ed330 ecd307a
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Mon Oct 7 17:09:39 2019 +0200
+
+    Merge branch 'master' of https://github.com/Phar-93/primero
+
+[33mcommit e4ed330ccbadda5baef1fa7bc4def27eec748a02[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Mon Oct 7 17:06:18 2019 +0200
+
+    Version 3
+
+[33mcommit ecd307ab4291e680cc62816f2c68e202ce0237d8[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:54:38 2019 +0200
+
+    Add files via upload
+
+[33mcommit a0fa2408611fadbcb272ea8ea8335bc8628ad8c8[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:48:57 2019 +0200
+
+    Update saluditos.txt
+
+[33mcommit a1325b47237684193ae3ffef5ff434f3bff9c22a[m
+Merge: 86c9f23 021070b
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:45:53 2019 +0200
+
+    Merge pull request #2 from Phar-93/modificaciones
+    
+    Actualización fichero 2 Modificaciones
+
+[33mcommit 021070b4f30156f952341ff106dab74c4d58e234[m[33m ([m[1;31morigin/modificaciones[m[33m)[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:39:40 2019 +0200
+
+    Update saluditos.txt
+
+[33mcommit 13e5edf1d210140bdeda9001bf682aefdad554be[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:38:20 2019 +0200
+
+    Update saluditos.txt
+
+[33mcommit 86c9f23c903a07f229a8b5357384665ee142bbcb[m
+Merge: df8a5c3 59f521c
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:36:18 2019 +0200
+
+    Merge pull request #1 from Phar-93/modificaciones
+    
+    Actualizacion del fichero saluditos.txt
+
+[33mcommit 59f521c0ce2e3d363dcded4e57e6774f4bc1cf31[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:30:18 2019 +0200
+
+    Update saluditos.txt
+
+[33mcommit df8a5c34550fa852f8f44c11cd7fcf2550aadbf3[m
+Author: Ricardo <Phar-aza@hotmail.com>
+Date:   Mon Oct 7 16:22:19 2019 +0200
+
+    Primera actualizacion
+
+[33mcommit 0d6eba9e9b91d5191bf424e79a746bb230250f8e[m
+Author: Threch <51830569+Phar-93@users.noreply.github.com>
+Date:   Mon Oct 7 16:02:27 2019 +0200
+
+    Initial commit
